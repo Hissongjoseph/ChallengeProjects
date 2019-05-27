@@ -3,7 +3,7 @@
 Repo is used to upload demo and challenge projects.
 
 AngularDemo
--Angular/Spring application. 
+-Angular/Spring application using a H2 in-memory database. 
 
 HelloCucumber
 -Introduction to Cucumber E2E Testing
