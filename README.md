@@ -2,13 +2,13 @@
 
 Repo is used to upload projects completed by watching demo videos and challenge projects.
 
-AngularDemo
+Angular Demo
 -Angular/Spring application using a H2 in-memory database. 
 
-HelloCucumber
+Hello Cucumber
 -Introduction to Cucumber E2E Testing
 
-SpringSecurity
+Spring Security
 -Implementing Spring security on webpages
 
 Netflix Clone
