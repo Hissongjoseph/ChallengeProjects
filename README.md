@@ -1,3 +1,12 @@
 # Challenge Projects
 
-The plans for this repo is to upload any kind of demo/challenge project that I am working on/completed. 
+Repo is used to upload demo and challenge projects.
+
+AngularDemo
+-Angular/Spring application using a H2 in-memory database. 
+
+HelloCucumber
+-Introduction to Cucumber E2E Testing
+
+SpringSecurity
+-Implementing Spring security on webpages
