@@ -10,3 +10,6 @@ HelloCucumber
 
 SpringSecurity
 -Implementing Spring security on webpages
+
+Netflix Clone
+  -Using HTML/CSS/JS, cloned the Netflix landing page
