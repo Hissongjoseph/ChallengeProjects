@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: com.hissong.springokta.SpringoktaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.349 s <<< FAILURE! - in com.hissong.springokta.SpringoktaApplicationTests
+contextLoads(com.hissong.springokta.SpringoktaApplicationTests)  Time elapsed: 0.038 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: 
+Error creating bean with name 'init' defined in com.hissong.springokta.SpringoktaApplication: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.boot.ApplicationRunner]: Factory method 'init' threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The method setName(String) is undefined for the type Car
+
+Caused by: org.springframework.beans.BeanInstantiationException: 
+Failed to instantiate [org.springframework.boot.ApplicationRunner]: Factory method 'init' threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The method setName(String) is undefined for the type Car
+
+Caused by: java.lang.Error: 
+Unresolved compilation problem: 
+	The method setName(String) is undefined for the type Car
+
+

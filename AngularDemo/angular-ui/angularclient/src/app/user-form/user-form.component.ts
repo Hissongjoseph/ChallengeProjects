@@ -18,11 +18,11 @@ export class UserFormComponent {
    }
 
    onSubmit(){
-      this.userService.save(this.user).subscribe(results => this.gotoUserList());
+    this.userService.save(this.user).subscribe(results => this.gotoUserList());
    }
 
    gotoUserList(){
-     this.router.navigate(['/users']);
+    this.router.navigate(['/users']);
    }
 
 }
