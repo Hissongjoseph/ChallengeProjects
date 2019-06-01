@@ -1,6 +1,6 @@
 # Challenge Projects
 
-Repo is used to upload demo and challenge projects.
+Repo is used to upload projects completed by watching demo videos and challenge projects.
 
 AngularDemo
 -Angular/Spring application using a H2 in-memory database. 
